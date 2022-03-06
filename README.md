@@ -3,8 +3,8 @@
 - Toolbox opens on x64 architectures of Windows 10 - 11 versions. There is no support for different versions.
 - Windows screen scaling setting can break Toolbox's window setting. Scaling effects should be turned off when using Toolbox for trouble-free use. 
 
-![cmd_k7kLkoB9Ha](https://user-images.githubusercontent.com/93199689/152683972-467e259e-004e-4ffd-b3de-fd03a3ea6fde.png)
-![cmd_4kkFAVjdTu](https://user-images.githubusercontent.com/93199689/152683973-311e3316-3684-4d2f-ad03-6bab3eff2030.png)
+![cmd_0mZLmH8Zwv](https://user-images.githubusercontent.com/93199689/156946482-acbd35c0-ca74-4930-9cf1-45f826c26852.png)
+![cmd_DM03ybleqt](https://user-images.githubusercontent.com/93199689/156946485-3a1739a2-7704-4536-bd0c-7e69749de9e4.png)
 
 ### Created: Huseyin UZUNYAYLA / OgnitorenKs
 
