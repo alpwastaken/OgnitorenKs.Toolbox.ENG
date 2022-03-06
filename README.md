@@ -6,15 +6,15 @@
 ![cmd_k7kLkoB9Ha](https://user-images.githubusercontent.com/93199689/152683972-467e259e-004e-4ffd-b3de-fd03a3ea6fde.png)
 ![cmd_4kkFAVjdTu](https://user-images.githubusercontent.com/93199689/152683973-311e3316-3684-4d2f-ad03-6bab3eff2030.png)
 
-### Hazırlayan: Huseyin UZUNYAYLA / OgnitorenKs
+### Created: Huseyin UZUNYAYLA / OgnitorenKs
 
 - I prepared the Toolbox for downloading basic programs on the systems I prepared and for making simple edits on the system.
 - It will be constantly updated. You can use the links below to download Toolbox. 
-- English: ► 
+- English: ► https://docs.google.com/uc?export=download&id=1vIa4FYNI6YS5l53Awusw4zS2IRvd6VFf
 - Turkish: ► https://docs.google.com/uc?export=download&id=19uNjxzHFY5A6g4mFg8FirFTnyL2R0HZ3
 	
 - For unattended installation, download "OgnitorenKs.Toolbox.Setup.bat" and run it as administrator. 
-- English: ►
+- English: ► https://docs.google.com/uc?export=download&id=1wTOKKhNr0JkpYaEM50KKJpRD3PTRL09e
 - Turkish: ► https://docs.google.com/uc?export=download&id=19uNjxzHFY5A6g4mFg8FirFTnyL2R0HZ3
 	
 ### Contact;
@@ -354,8 +354,8 @@ Contains SLMGR.VBS commands. No crack
 	• 1 - Administrator [Enable]
 	• 2 - Administrator [Disable]
 	• 3 - Add user to Admin group
-	• 4 - Kullanıcı [Add]
-	• 5 - Kullanıcı [Delete]
+	• 4 - User [Add]
+	• 5 - User [Delete]
 	• 6 - Forgot password - Change
 	• 7 - Show Current Users
 ### • 66 - System Info:
