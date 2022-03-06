@@ -6,7 +6,7 @@
 ![cmd_k7kLkoB9Ha](https://user-images.githubusercontent.com/93199689/152683972-467e259e-004e-4ffd-b3de-fd03a3ea6fde.png)
 ![cmd_4kkFAVjdTu](https://user-images.githubusercontent.com/93199689/152683973-311e3316-3684-4d2f-ad03-6bab3eff2030.png)
 
-### Hazırlayan: Huseyin UZUNYAYLA / OgnitorenKs
+### Created: Huseyin UZUNYAYLA / OgnitorenKs
 
 - I prepared the Toolbox for downloading basic programs on the systems I prepared and for making simple edits on the system.
 - It will be constantly updated. You can use the links below to download Toolbox. 
