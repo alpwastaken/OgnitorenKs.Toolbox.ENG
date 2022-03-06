@@ -134,7 +134,7 @@ Programs in this section are free except WinRaR and Internet Download Manager.
 # BONUS
 	• 53. - This section differs according to the operating system. It is divided into two separate sections for Windows 11 and Windows 10. 
 ### • 53 - Windows 10 Edit
-![cmd_fqQX7gF94V](https://user-images.githubusercontent.com/93199689/150528025-d02fcc25-66f3-485f-af46-765b53406b4c.png)
+![cmd_zMLLb4CZPJ](https://user-images.githubusercontent.com/93199689/156946513-91d74e73-0c70-4fe6-a682-904e6630994e.png)
 
 	• 1 - Taskbar Notification area icons [Show/Hide]: 
 	     •[Show]: 0 - It shows all the icons next to the clock. 
@@ -202,7 +202,7 @@ Programs in this section are free except WinRaR and Internet Download Manager.
 In order to use this section, you need to enter the number of the section you are going to process and then add the initials of "Enable / Disable". 
 
 Örnek: 1e / 2d / 4E / 10D / 23e / 24D  
-![cmd_QzboAOTK6v](https://user-images.githubusercontent.com/93199689/150527971-8c3bcd83-b282-4b54-8647-da835df6b9e2.png)
+![cmd_qRi9vR3vid](https://user-images.githubusercontent.com/93199689/156946533-d6dfa1d2-6034-424c-a497-f4bcc8743a61.png)
 
 	• 1 [E/D]- Bluetooth service 
 	• 2 [E/D]- Printer service 
@@ -233,7 +233,7 @@ In order to use this section, you need to enter the number of the section you ar
 ### • 56 - Windows Editing:
 Blue colored transaction numbers are related to transaction number 26. 
 
-![cmd_ny6Aqy4yKG](https://user-images.githubusercontent.com/93199689/150528537-55f9eb5d-c0a1-4207-86ec-d4ac4822bba7.png)
+![cmd_VvMTG33F40](https://user-images.githubusercontent.com/93199689/156946550-d254eb4c-a668-4104-b02a-9e790363f688.png)
  
 	• 1 - WIM / ESD Reader: Provides information about the contents of the install.wim and install.esd files. 
 	• 2 - AIO Windows Maker: It serves to merge the Install.wim versions. 
@@ -257,27 +257,27 @@ Blue colored transaction numbers are related to transaction number 26.
 	     •                  [HKU\.Default]  ► ► [HKLM\OG_DEFAULT]
 	     • [HKLM\SYSTEM\CurrentControlSet]  ► ► [HKLM\OG_SYSTEM\ControlSet001]
 	     • -------------------------------------------------------------------------------
-	     • ► Örnek 1:
+	     • ► Sample 1:
 	     • ----------
 	     • [Default Path]: reg add "HKLM\SOFTWARE\Microsoft\Speech_OneCore\Preferences" /v "ModelDownloadAllowed" /t REG_DWORD /d 0 /f
 	     • [Converter state]: reg add "HKLM\OG_SOFTWARE\Microsoft\Speech_OneCore\Preferences" /v "ModelDownloadAllowed" /t REG_DWORD /d 0 /f
 	     • ----------
-	     • ► Örnek 2:
+	     • ► Sample 2:
 	     • ----------
 	     • [Default Path]: Reg add "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\AppHost" /v "EnableWebContentEvaluation" /t REG_DWORD /d 0 /f
 	     • [Converter state]: Reg add "HKLM\OG_NTUSER\SOFTWARE\Microsoft\Windows\CurrentVersion\AppHost" /v "EnableWebContentEvaluation" /t REG_DWORD /d 0 /f
 	     • ----------
-	     • ► Örnek 3:
+	     • ► Sample 3:
 	     • ----------
 	     • [Default Path]: Reg add "HKU\.Default\SOFTWARE\Microsoft\Windows\CurrentVersion\AppHost" /v "PreventOverride" /t REG_DWORD /d 0 /f
 	     • [Converter state]: Reg add "HKLM\OG_DEFAULT\SOFTWARE\Microsoft\Windows\CurrentVersion\AppHost" /v "PreventOverride" /t REG_DWORD /d 0 /f
 	     • ----------
-	     • ► Örnek 4:
+	     • ► Sample 4:
 	     • ----------
 	     • [Default Path]: reg add "HKCR\*\shell\runas" /ve /t REG_SZ /d "Sahipliği Al" /f 
 	     • [Converter state]: reg add "HKLM\OG_SOFTWARE\Classes\*\shell\runas" /ve /t REG_SZ /d "Sahipliği Al" /f 
 	     • ----------
-	     • ► Örnek 5:
+	     • ► Sample 5:
 	     • ----------
 	     • [Default Path]: "HKLM\SYSTEM\CurrentControlSet\Control\FileSystem" /v "LongPathsEnabled" /t REG_DWORD /d 1 /f
 	     • [Converter state]: "HKLM\OG_SYSTEM\ControlSet001\Control\FileSystem" /v "LongPathsEnabled" /t REG_DWORD /d 1 /f
@@ -305,7 +305,7 @@ Blue colored transaction numbers are related to transaction number 26.
 	• -------------------------------------------------------------------------------------------------------------------------
 	• 24 - Unattended program-settings maker [Offline]: Integrates unattended program into offline system. 
 	     • Operation 51 covers operations 1 to 50 of the [Multi Select] section. 
-![cmd_GkxOczJV0D](https://user-images.githubusercontent.com/93199689/149943609-de7cf7d2-37eb-4080-9b2c-bc8650c7e87c.png)
+![cmd_ZERmAY351U](https://user-images.githubusercontent.com/93199689/156946580-9149bdb3-5cc1-4248-a302-ec1a7fbd45cd.png)
 
 	• 25 - Unattended program-settings maker [Online]: It integrates the program into the offline system as download, install, delete. 
 	     • In this chapter, I will explain chapters 24 and 25.
@@ -315,7 +315,7 @@ Blue colored transaction numbers are related to transaction number 26.
 		 • You can integrate the .zip file you backed up with the offline system by defining the path of the .zip file you backed up with process 99 [Install backup unattended].
 		 • You can use offline and online sections at the same time. However, in such a case, follow the procedure no. 53 from the [Online] section.
 		 • Since there is no download in the process of adding the online section, there is no multi-select section. 
-![cmd_GTPUe3pUKN](https://user-images.githubusercontent.com/93199689/149943587-8d0c7b9b-5fdb-4466-9da0-6824834442f2.png)
+![cmd_5CaCfv96pn](https://user-images.githubusercontent.com/93199689/156946589-d162c46b-b61d-49cb-87bd-adee1b182b11.png)
 
 	• -------------------------------------------------------------------------------------------------------------------------
 	• 26 - Mount(Image) Path: This chapter is linked to chapters 9 - 12 - 13 - 16 - 18 - 19 - 20 - 21 - 22 - 23 - 24 - 25.
@@ -336,11 +336,13 @@ Blue colored transaction numbers are related to transaction number 26.
 ### • 62 - Fat32 to NTFS: 
 	• Converts USB disks formatted as Fat32 to NTFS without data loss. You need to enter the disk letter. 	
 ### • 63 - Ping Meter: 
-	• It automatically shows the ping status of certain sites in it. With the "Measure Ping" section at the bottom, you can measure the ping of the site and IP you want. 
+	• It automatically shows the ping status of certain sites in it. With the "Measure Ping" section at the bottom, you can measure the ping of the site and IP you want.	
+![cmd_2U6lzLb4eI](https://user-images.githubusercontent.com/93199689/156946623-3a8c386b-f8ad-4f39-9579-f7450c8ac6e2.png)
+
 ### • 64 - License Management 
 Contains SLMGR.VBS commands. No crack 
 
-![LisansYonetimi](https://user-images.githubusercontent.com/93199689/148984026-2f91e49b-5fd0-4a14-85b0-aeab3ffa1d48.png)
+![cmd_v4facyeuHh](https://user-images.githubusercontent.com/93199689/156946599-a4ea4d90-9300-4398-9bba-8188d0ad323a.png)
 
 	• 1 - License Enter [ipk]: You can license the system by entering your license number. 
 	• 2 - License status [dli]: Provides information about the license status. 
@@ -349,7 +351,7 @@ Contains SLMGR.VBS commands. No crack
 	• 5 - License Delete [upk]: It deletes the license you used in the system.
 	• 6 - License Reset [rearm]: You can extend the Windows 30-day trial period 3 times.  
 ### • 65 - User Account Management: 
-![KullanıcıHesabı](https://user-images.githubusercontent.com/93199689/148984022-2d26e786-5d72-4941-9753-c7ff7e923927.png)
+![cmd_rnMSaNPN4Q](https://user-images.githubusercontent.com/93199689/156946606-54d2a295-65cd-4dc6-80c6-b6f36d815d89.png)
 
 	• 1 - Administrator [Enable]
 	• 2 - Administrator [Disable]
@@ -360,7 +362,7 @@ Contains SLMGR.VBS commands. No crack
 	• 7 - Show Current Users
 ### • 66 - System Info:
 - It gives information about the system and hardware.
-![SistemHakkında](https://user-images.githubusercontent.com/93199689/148984034-bcafa477-5e34-4fe5-8723-09c16225dcee.png)
+![cmd_4jlq8fwkqW](https://user-images.githubusercontent.com/93199689/156946615-a8f77dab-900b-4e67-8854-cf5e2cbfeedb.png)
 
 ### • 67 - Wifi Crack:	 
 	• In this section, you can see the Wifi names and passwords you have entered into the system.
