@@ -22,7 +22,7 @@ echo                       %ESC%[92m OgnitorenKs Toolbox Updating...%ESC%[0m
 echo             
 echo               [þþþþþþþþþþþþ                                    ]
 Call :ogni
-C:\OgnitorenKs.Toolbox\Files\wget --no-check-certificate "https://docs.google.com/uc?export=download&id=1g8mbmzrFcXSZT7r5Oiwdqfs9wGNS2xWl" -O C:\OgnitorenKs.Toolbox\OgnitorenKs.Toolbox.zip > NUL 2>&1
+C:\OgnitorenKs.Toolbox\Files\wget --no-check-certificate "https://docs.google.com/uc?export=download&id=1vIa4FYNI6YS5l53Awusw4zS2IRvd6VFf" -O C:\OgnitorenKs.Toolbox\OgnitorenKs.Toolbox.zip > NUL 2>&1
 cls
 Call :space
 echo                       %ESC%[92m OgnitorenKs Toolbox Updating...%ESC%[0m
