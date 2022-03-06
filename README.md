@@ -259,28 +259,28 @@ Blue colored transaction numbers are related to transaction number 26.
 	     • -------------------------------------------------------------------------------
 	     • ► Örnek 1:
 	     • ----------
-	     • [Varsayılan Yol]: reg add "HKLM\SOFTWARE\Microsoft\Speech_OneCore\Preferences" /v "ModelDownloadAllowed" /t REG_DWORD /d 0 /f
-	     • [Entegre edilmiş hali]: reg add "HKLM\OG_SOFTWARE\Microsoft\Speech_OneCore\Preferences" /v "ModelDownloadAllowed" /t REG_DWORD /d 0 /f
+	     • [Default Path]: reg add "HKLM\SOFTWARE\Microsoft\Speech_OneCore\Preferences" /v "ModelDownloadAllowed" /t REG_DWORD /d 0 /f
+	     • [Converter state]: reg add "HKLM\OG_SOFTWARE\Microsoft\Speech_OneCore\Preferences" /v "ModelDownloadAllowed" /t REG_DWORD /d 0 /f
 	     • ----------
 	     • ► Örnek 2:
 	     • ----------
-	     • [Varsayılan Yol]: Reg add "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\AppHost" /v "EnableWebContentEvaluation" /t REG_DWORD /d 0 /f
-	     • [Entegre edilmiş hali]: Reg add "HKLM\OG_NTUSER\SOFTWARE\Microsoft\Windows\CurrentVersion\AppHost" /v "EnableWebContentEvaluation" /t REG_DWORD /d 0 /f
+	     • [Default Path]: Reg add "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\AppHost" /v "EnableWebContentEvaluation" /t REG_DWORD /d 0 /f
+	     • [Converter state]: Reg add "HKLM\OG_NTUSER\SOFTWARE\Microsoft\Windows\CurrentVersion\AppHost" /v "EnableWebContentEvaluation" /t REG_DWORD /d 0 /f
 	     • ----------
 	     • ► Örnek 3:
 	     • ----------
-	     • [Varsayılan Yol]: Reg add "HKU\.Default\SOFTWARE\Microsoft\Windows\CurrentVersion\AppHost" /v "PreventOverride" /t REG_DWORD /d 0 /f
-	     • [Entegre edilmiş hali]: Reg add "HKLM\OG_DEFAULT\SOFTWARE\Microsoft\Windows\CurrentVersion\AppHost" /v "PreventOverride" /t REG_DWORD /d 0 /f
+	     • [Default Path]: Reg add "HKU\.Default\SOFTWARE\Microsoft\Windows\CurrentVersion\AppHost" /v "PreventOverride" /t REG_DWORD /d 0 /f
+	     • [Converter state]: Reg add "HKLM\OG_DEFAULT\SOFTWARE\Microsoft\Windows\CurrentVersion\AppHost" /v "PreventOverride" /t REG_DWORD /d 0 /f
 	     • ----------
 	     • ► Örnek 4:
 	     • ----------
-	     • [Varsayılan Yol]: reg add "HKCR\*\shell\runas" /ve /t REG_SZ /d "Sahipliği Al" /f 
-	     • [Entegre edilmiş hali]: reg add "HKLM\OG_SOFTWARE\Classes\*\shell\runas" /ve /t REG_SZ /d "Sahipliği Al" /f 
+	     • [Default Path]: reg add "HKCR\*\shell\runas" /ve /t REG_SZ /d "Sahipliği Al" /f 
+	     • [Converter state]: reg add "HKLM\OG_SOFTWARE\Classes\*\shell\runas" /ve /t REG_SZ /d "Sahipliği Al" /f 
 	     • ----------
 	     • ► Örnek 5:
 	     • ----------
-	     • [Varsayılan Yol]: "HKLM\SYSTEM\CurrentControlSet\Control\FileSystem" /v "LongPathsEnabled" /t REG_DWORD /d 1 /f
-	     • [Entegre edilmiş hali]: "HKLM\OG_SYSTEM\ControlSet001\Control\FileSystem" /v "LongPathsEnabled" /t REG_DWORD /d 1 /f
+	     • [Default Path]: "HKLM\SYSTEM\CurrentControlSet\Control\FileSystem" /v "LongPathsEnabled" /t REG_DWORD /d 1 /f
+	     • [Converter state]: "HKLM\OG_SYSTEM\ControlSet001\Control\FileSystem" /v "LongPathsEnabled" /t REG_DWORD /d 1 /f
 	     • -------------------------------------------------------------------------------
 	• 10 - Regedit Unload: Collects loaded regedit records. Don't forget to collect regedit records if you upload them. Otherwise, you will get errors in other programs. 
 	• 11 - Dism Update [Online]: It installs the Windows update files on the installed system. Put the update files in "Edit\Update". 
