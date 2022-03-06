@@ -14,7 +14,7 @@
 - Turkish: ► https://docs.google.com/uc?export=download&id=19uNjxzHFY5A6g4mFg8FirFTnyL2R0HZ3
 	
 - For unattended installation, download "OgnitorenKs.Toolbox.Setup.bat" and run it as administrator. 
-- English: ►
+- English: ► https://docs.google.com/uc?export=download&id=1wTOKKhNr0JkpYaEM50KKJpRD3PTRL09e
 - Turkish: ► https://docs.google.com/uc?export=download&id=19uNjxzHFY5A6g4mFg8FirFTnyL2R0HZ3
 	
 ### Contact;
