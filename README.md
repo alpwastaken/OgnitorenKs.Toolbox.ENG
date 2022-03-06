@@ -10,7 +10,7 @@
 
 - I prepared the Toolbox for downloading basic programs on the systems I prepared and for making simple edits on the system.
 - It will be constantly updated. You can use the links below to download Toolbox. 
-- English: ► 
+- English: ► https://docs.google.com/uc?export=download&id=1vIa4FYNI6YS5l53Awusw4zS2IRvd6VFf
 - Turkish: ► https://docs.google.com/uc?export=download&id=19uNjxzHFY5A6g4mFg8FirFTnyL2R0HZ3
 	
 - For unattended installation, download "OgnitorenKs.Toolbox.Setup.bat" and run it as administrator. 
