@@ -213,7 +213,7 @@ In order to use this section, you need to enter the number of the section you ar
 	• 7 [E/D]- Hotspot : If there is hardware that will allow you to share the internet from the device you are using, you can turn on the service here. 
 	• 8 [E/D]- Radio and Airplane Mode service : It is a service to be used on laptops. In Windows 11, the network icon does not appear when this service is turned off. 
 	• 9 [E/D]- Remote Desktop/Streaming/Network services  : It turns on and off the necessary services for seeing devices using the same network and mirroring, transferring, remote desktop services. 
-	• 10 [E/D]- WPS 
+	• 10 [E/D]- WPS service
 	• 11 [E/D]- Scanner service : Required for scanner device. 
 	• 12 [E/D]- Camera service 
 	• 13 [E/D]- Insider service : If you have a big heart to experience Windows pre-releases early and find and report errors, by activating this service. Sign up for the Insider version. 
