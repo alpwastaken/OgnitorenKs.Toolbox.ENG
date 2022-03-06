@@ -166,7 +166,7 @@ Programs in this section are free except WinRaR and Internet Download Manager.
 	     •[Old]: 1 - Windows 10 installs legacy (Default) icons. 
 	     •[New]: 2 - Windows 10 installs new icons. 
 ### • 53 - Windows 11 Edit
-![Win11](https://user-images.githubusercontent.com/93199689/147974749-a9d0f0ce-7dd9-4bd2-8a1c-8b972871e09f.png)
+![cmd_1V9sb5IXKQ](https://user-images.githubusercontent.com/93199689/156946692-c2b13a19-e5dd-43b0-abbf-d9a9c5e732bd.png)
 
 	• 1 - Taskbar Size [Small/Default/Big]: 
 	     •[Small]: 0 - It makes the taskbar small. 
