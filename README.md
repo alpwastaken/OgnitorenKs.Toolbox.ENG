@@ -354,8 +354,8 @@ Contains SLMGR.VBS commands. No crack
 	• 1 - Administrator [Enable]
 	• 2 - Administrator [Disable]
 	• 3 - Add user to Admin group
-	• 4 - Kullanıcı [Add]
-	• 5 - Kullanıcı [Delete]
+	• 4 - User [Add]
+	• 5 - User [Delete]
 	• 6 - Forgot password - Change
 	• 7 - Show Current Users
 ### • 66 - System Info:
