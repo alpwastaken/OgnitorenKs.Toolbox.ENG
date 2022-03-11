@@ -59,7 +59,7 @@ Programs in this section are free except WinRaR and Internet Download Manager.
 #### ► Cheating Apps 
 	Not for online games :)
 	• 13 - Cheat Engine: It's a cheat engine. Do not try in online games, you are likely to get banned. It can be used in story games.  (No cheating) 
-	• 14 - Wemod: Hile kütüphanesidir. Yalnızca hikayeli oyunlarda işe yarar.
+	• 14 - Wemod: A cheat library. Only works with singleplayer games.
 #### ► Browser Apps 
 	• 15 - Google Chrome: It is the most used browser.  
 	• 16 - Mozilla Firefox: It is generally used on Linux systems. Windows version also has very nice features. 
